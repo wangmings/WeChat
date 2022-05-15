@@ -1,0 +1,5 @@
+Mac谷歌游览器禁止自动更新的方法
+打开谷歌游览器的包找到: Google Chrome的执行文件 
+
+chmod 770 Google\ Chrome
+sudo chown root:wheel MacOS  
